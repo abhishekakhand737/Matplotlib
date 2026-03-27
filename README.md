@@ -1,4 +1,4 @@
-# 📊 Matplotlib Visualization & Plotting Series 🚀
+# 📊 Matplotlib Visualization & Plotting Series🚀
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
@@ -30,21 +30,13 @@ It is designed to:
 ## 📂 Repository Structure
 
 Matplotlib_01_(Line_Plot).ipynb → Line plot fundamentals
-
 Matplotlib_02_(Histogram).ipynb → Data distribution visualization
-
 Matplotlib_03_(Part1_Bar_Chart).ipynb → Basic bar charts
-
 Matplotlib_04_(Part2_Bar_Chart).ipynb → Advanced bar charts
-
 Matplotlib_05_(Scatter_Plot).ipynb → Relationship visualization
-
 Matplotlib_06_(Pie_Chart).ipynb → Proportion visualization
-
 Matplotlib_07_(Sub_Plot).ipynb → Multiple plots in one figure
-
 Matplotlib_08_(Save_Figure).ipynb → Saving plots as images
-
 Matplotlib_09_(Imshow_&_Colorbar).ipynb → Image visualization & color mapping
 
 ---
