@@ -77,6 +77,8 @@ Grouped bar charts compare multiple series side by side across categories. Stack
 `imshow()` renders a 2D array as an image, mapping numerical values to colors through a colormap. The choice of colormap matters: sequential colormaps (like `viridis` or `plasma`) are appropriate for data with a natural order from low to high; diverging colormaps (like `RdBu`) are appropriate when data has a meaningful midpoint, such as zero. `vmin` and `vmax` control how the data range maps to the color scale. A colorbar is always necessary — without it, the color encoding is uninterpretable.
 
 ---
+## Plots
+![plots](./matplotlib_plots.png)
 
 ## Setup and Installation
 
